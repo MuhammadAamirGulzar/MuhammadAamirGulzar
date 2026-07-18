@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/m-aamir-gulzar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:amirgulzar328@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 3+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
 - 🔭 **Currently:** Senior AI Engineer at **Neste** (Finland, remote) - architecting enterprise voice agents & automated contract generation on Vertex AI + Snowflake
-- 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer
+- 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer · [Google Scholar](https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en)
 - 🎓 **MS Computer Science**, FAST-NUCES · former Lecturer & AI Trainer
 - 🧠 **Building:** a multi-agent system (agentic orchestration, tool use, evaluation)
 - 📫 **Reach me:** amirgulzar328@gmail.com
@@ -39,6 +39,9 @@ I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and ag
 
 **GenAI & Agents**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3E2A75?style=flat)
 ![Pipecat](https://img.shields.io/badge/Pipecat-5A67D8?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
