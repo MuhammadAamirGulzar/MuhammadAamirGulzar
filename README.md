@@ -13,10 +13,10 @@
 
 ---
 
-I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 5 years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems — from research prototype to scalable deployment.
+I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 3+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
-- 🔭 **Currently:** Senior AI Engineer at **Neste** (Finland, remote) — architecting enterprise voice agents & automated contract generation on Vertex AI + Snowflake
-- 🔬 **Research:** First-author, **Q1 journal** (2025) — benchmarking pathology foundation models for MSI prediction in colorectal cancer
+- 🔭 **Currently:** Senior AI Engineer at **Neste** (Finland, remote) - architecting enterprise voice agents & automated contract generation on Vertex AI + Snowflake
+- 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer
 - 🎓 **MS Computer Science**, FAST-NUCES · former Lecturer & AI Trainer
 - 🧠 **Building:** a multi-agent system (agentic orchestration, tool use, evaluation)
 - 📫 **Reach me:** amirgulzar328@gmail.com
@@ -75,10 +75,5 @@ AI Research           →  computational pathology, spatial transcriptomics, fou
 ```
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAamirGulzar&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAamirGulzar&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="150">
-</p>
 
 <p align="center"><i>Open to senior AI engineering roles, research collaborations, and consulting on GenAI products.</i></p>
