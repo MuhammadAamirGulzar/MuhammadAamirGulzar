@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Aamir 👋</h1>
 
 <p align="center">
-  <b>AI Engineer @ Neste</b> · Production Generative AI &amp; Agentic Systems<br>
+  <b>Independent AI Engineer</b> · Production Generative AI &amp; Agentic Systems<br>
   I build AI systems that make it to production — not just to a demo.
 </p>
 
 <p align="center">
+  <a href="https://muhammadaamirgulzar.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/m-aamir-gulzar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:amirgulzar328@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
@@ -15,10 +16,12 @@
 
 I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 3+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
-- 🔭 **Currently:** Senior AI Engineer at **Neste** (Finland, remote) - architecting enterprise voice agents & automated contract generation on Vertex AI + Snowflake
+- 🔭 **Currently:** Independent AI Engineer - building a production multi-agent RAG system for a confidential US enterprise client on Vertex AI
+- 💼 **Previously:** AI Engineer on a contract engagement at **Neste** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation on Vertex AI + Snowflake, plus [SUSAN-GPT](https://susan.fi) and [Staffin](https://staffin.fi), now live in production
 - 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer · [Google Scholar](https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en)
 - 🎓 **MS Computer Science**, FAST-NUCES · former Lecturer & AI Trainer
 - 🧠 **Building:** a multi-agent system (agentic orchestration, tool use, evaluation)
+- 🌐 **Full portfolio, CV & book a meeting:** [muhammadaamirgulzar.github.io](https://muhammadaamirgulzar.github.io/)
 - 📫 **Reach me:** amirgulzar328@gmail.com
 
 ---
@@ -27,6 +30,8 @@ I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and ag
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| **[SUSAN-GPT](https://susan.fi)** | Voice-enabled RAG career/business assistant for jobseekers in Finland · live in production | RAG · Voice AI |
+| **[Staffin](https://staffin.fi)** | AI resume-matching + multi-agent interview screening platform · live in production | Multi-agent · Resume matching |
 | **[Voice AI Microservice](https://github.com/MuhammadAamirGulzar/voice-ai-microservice)** | Real-time multi-tenant voice platform · 1,000+ concurrent sessions · sub-500ms latency | Pipecat · WebRTC · AssemblyAI · FastAPI |
 | **[Contract Automation Pipeline](https://github.com/MuhammadAamirGulzar/contract-automation-pipeline)** | Enterprise doc automation · 98%+ field accuracy · <5 min/trade | Vertex AI Pipelines · Gemini 2.5 Pro · Snowflake |
 | **[Zoning Map Agent](https://github.com/MuhammadAamirGulzar/zoning-map-agent)** | Deterministic-first agent that recovers delisted docs · bounded LLM escalation | Python · Playwright · Docker |
