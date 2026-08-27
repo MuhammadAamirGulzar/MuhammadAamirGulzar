@@ -13,7 +13,7 @@
 
 ---
 
-I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 3+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
+I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 5+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
 - 🔭 **Currently:** Independent AI Engineer - building a production multi-agent RAG system for a confidential US enterprise client on Vertex AI
 - 💼 **Previously:** AI Engineer on a contract engagement at **Neste** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation on Vertex AI + Snowflake, plus [SUSAN-GPT](https://susan.fi) and [Staffin](https://staffin.fi), now live in production
