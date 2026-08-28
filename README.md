@@ -15,8 +15,8 @@
 
 I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 5+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
-- 🔭 **Currently:** Independent AI Engineer - building a production multi-agent RAG system for a confidential US enterprise client on Vertex AI
-- 💼 **Previously:** AI Engineer at **TalentBridge Oy** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation for client Neste on Vertex AI + Snowflake, plus four production products for TalentBridge itself: [SUSAN-GPT](https://susan.fi), [Staffin](https://staffin.fi), [GovXprt](https://govxprt.ai), and [EagleChat](https://eaglechat.ai)
+- 🔭 **Currently:** Independent AI Engineer, leading development of [GovXprt](https://govxprt.ai), a production multi-agent RAG system for a confidential US enterprise client, on Vertex AI
+- 💼 **Previously:** AI Engineer at **TalentBridge Oy** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation for client Neste on Vertex AI + Snowflake, plus three production products for TalentBridge itself: [SUSAN-GPT](https://susan.fi), [Staffin](https://staffin.fi), and [EagleChat](https://eaglechat.ai)
 - 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer, plus a first-author **Wiley book chapter** (2024) on skin-disease detection · [Google Scholar](https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en)
 - 🎓 **MS Computer Science**, FAST-NUCES · former Lecturer & AI Trainer
 - 🧠 **Building:** a multi-agent system (agentic orchestration, tool use, evaluation)
