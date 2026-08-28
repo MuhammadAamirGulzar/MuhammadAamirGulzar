@@ -16,7 +16,7 @@
 I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 5+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
 - 🔭 **Currently:** Independent AI Engineer - building a production multi-agent RAG system for a confidential US enterprise client on Vertex AI
-- 💼 **Previously:** AI Engineer on a contract engagement at **Neste** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation on Vertex AI + Snowflake, plus [SUSAN-GPT](https://susan.fi) and [Staffin](https://staffin.fi), now live in production
+- 💼 **Previously:** AI Engineer at **TalentBridge Oy** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation for client Neste on Vertex AI + Snowflake, plus four production products for TalentBridge itself: [SUSAN-GPT](https://susan.fi), [Staffin](https://staffin.fi), [GovXprt](https://govxprt.ai), and [EagleChat](https://eaglechat.ai)
 - 🔬 **Research:** First-author, **Q1 journal** (2025) - benchmarking pathology foundation models for MSI prediction in colorectal cancer, plus a first-author **Wiley book chapter** (2024) on skin-disease detection · [Google Scholar](https://scholar.google.com/citations?user=q2Oh69IAAAAJ&hl=en)
 - 🎓 **MS Computer Science**, FAST-NUCES · former Lecturer & AI Trainer
 - 🧠 **Building:** a multi-agent system (agentic orchestration, tool use, evaluation)
@@ -30,6 +30,8 @@ I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and ag
 |---|---|---|
 | **[SUSAN-GPT](https://susan.fi)** | Voice-enabled RAG career/business assistant for jobseekers in Finland · live in production | RAG · Voice AI |
 | **[Staffin](https://staffin.fi)** | AI resume-matching + multi-agent interview screening platform · live in production | Multi-agent · Resume matching |
+| **[GovXprt](https://govxprt.ai)** | AI-assisted regulatory compliance platform for environmental health permitting · live in production | RAG · Regulatory Compliance |
+| **[EagleChat](https://eaglechat.ai)** | AI tutoring for NCLEX, journalism, medical assistant training, and financial literacy · built on the SUSAN-GPT backend · live in production | RAG · Voice AI · EdTech |
 | **[Contract Automation Pipeline](https://github.com/MuhammadAamirGulzar/contract-automation-pipeline)** | Enterprise doc automation · 98%+ field accuracy · <5 min/trade | Vertex AI Pipelines · Gemini 2.5 Pro · Snowflake |
 | **[Zoning Map Agent](https://github.com/MuhammadAamirGulzar/zoning-map-agent)** | Deterministic-first agent that recovers delisted docs · bounded LLM escalation | Python · Playwright · Docker |
 | **[colonmsi-fm](https://github.com/MuhammadAamirGulzar/colonmsi-fm)** | Code behind my Q1 pathology-AI publication | CONCH · UNI · PyTorch · OpenSlide |
