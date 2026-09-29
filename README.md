@@ -13,7 +13,7 @@
 
 ---
 
-I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 5+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
+I'm an AI Engineer specializing in **production-grade Generative AI, RAG, and agentic systems**, with peer-reviewed research in medical AI. Over the past 3+ years I've shipped LLM applications, real-time voice agents, enterprise automation pipelines, and multimodal systems - from research prototype to scalable deployment.
 
 - 🔭 **Currently:** Independent AI Engineer, leading development of [GovXprt](https://govxprt.ai), a production multi-agent RAG system for a confidential US enterprise client, on Vertex AI
 - 💼 **Previously:** AI Engineer at **TalentBridge Oy** (Finland, remote), Nov 2025 – Jun 2026 - shipped automated contract generation for client Neste on Vertex AI + Snowflake, plus three production products for TalentBridge itself: [SUSAN-GPT](https://susan.fi), [Staffin](https://staffin.fi), and [EagleChat](https://eaglechat.ai)
